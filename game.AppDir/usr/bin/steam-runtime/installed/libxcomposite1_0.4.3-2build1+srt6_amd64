@@ -1,0 +1,12 @@
+drwxr-xr-x root/root         0 2019-04-03 15:11 ./
+drwxr-xr-x root/root         0 2019-04-03 15:11 ./usr/
+drwxr-xr-x root/root         0 2019-04-03 15:11 ./usr/lib/
+drwxr-xr-x root/root         0 2019-04-03 15:11 ./usr/lib/x86_64-linux-gnu/
+-rw-r--r-- root/root     10200 2019-04-03 15:11 ./usr/lib/x86_64-linux-gnu/libXcomposite.so.1.0.0
+drwxr-xr-x root/root         0 2019-04-03 15:11 ./usr/share/
+drwxr-xr-x root/root         0 2019-04-03 15:11 ./usr/share/doc/
+drwxr-xr-x root/root         0 2019-04-03 15:11 ./usr/share/doc/libxcomposite1/
+-rw-r--r-- root/root      7505 2010-10-28 05:40 ./usr/share/doc/libxcomposite1/changelog.gz
+-rw-r--r-- root/root      2324 2019-04-03 15:10 ./usr/share/doc/libxcomposite1/copyright
+-rw-r--r-- root/root      2527 2019-04-03 15:10 ./usr/share/doc/libxcomposite1/changelog.Debian.amd64.gz
+lrwxrwxrwx root/root         0 2019-04-03 15:11 ./usr/lib/x86_64-linux-gnu/libXcomposite.so.1 -> libXcomposite.so.1.0.0

@@ -1,0 +1,14 @@
+drwxr-xr-x root/root         0 2019-04-03 14:45 ./
+drwxr-xr-x root/root         0 2019-04-03 14:45 ./usr/
+drwxr-xr-x root/root         0 2019-04-03 14:45 ./usr/lib/
+drwxr-xr-x root/root         0 2019-04-03 14:45 ./usr/lib/x86_64-linux-gnu/
+-rw-r--r-- root/root    260872 2019-04-03 14:45 ./usr/lib/x86_64-linux-gnu/libjpeg.so.8.0.2
+drwxr-xr-x root/root         0 2019-04-03 14:45 ./usr/share/
+drwxr-xr-x root/root         0 2019-04-03 14:45 ./usr/share/lintian/
+drwxr-xr-x root/root         0 2019-04-03 14:45 ./usr/share/lintian/overrides/
+-rw-r--r-- root/root       283 2012-07-10 16:39 ./usr/share/lintian/overrides/libjpeg-turbo8
+drwxr-xr-x root/root         0 2019-04-03 14:45 ./usr/share/doc/
+drwxr-xr-x root/root         0 2019-04-03 14:45 ./usr/share/doc/libjpeg-turbo8/
+-rw-r--r-- root/root      5225 2012-07-10 16:39 ./usr/share/doc/libjpeg-turbo8/copyright
+-rw-r--r-- root/root      1342 2019-04-03 14:43 ./usr/share/doc/libjpeg-turbo8/changelog.Debian.amd64.gz
+lrwxrwxrwx root/root         0 2019-04-03 14:45 ./usr/lib/x86_64-linux-gnu/libjpeg.so.8 -> libjpeg.so.8.0.2

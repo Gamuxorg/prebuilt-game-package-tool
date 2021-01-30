@@ -1,0 +1,16 @@
+drwxr-xr-x root/root         0 2020-12-03 19:36 ./
+drwxr-xr-x root/root         0 2020-12-03 19:36 ./usr/
+drwxr-xr-x root/root         0 2020-12-03 19:36 ./usr/bin/
+-rwxr-xr-x root/root    135336 2020-12-03 19:36 ./usr/bin/steam-runtime-input-monitor
+-rwxr-xr-x root/root    258928 2020-12-03 19:36 ./usr/bin/steam-runtime-check-requirements
+-rwxr-xr-x root/root    267240 2020-12-03 19:36 ./usr/bin/steam-runtime-system-info
+drwxr-xr-x root/root         0 2020-12-03 19:36 ./usr/share/
+drwxr-xr-x root/root         0 2020-12-03 19:36 ./usr/share/man/
+drwxr-xr-x root/root         0 2020-12-03 19:36 ./usr/share/man/man1/
+-rw-r--r-- root/root      1392 2020-12-03 19:36 ./usr/share/man/man1/steam-runtime-input-monitor.1.gz
+-rw-r--r-- root/root      7471 2020-12-03 19:36 ./usr/share/man/man1/steam-runtime-system-info.1.gz
+-rw-r--r-- root/root       455 2020-12-03 19:36 ./usr/share/man/man1/steam-runtime-check-requirements.1.gz
+drwxr-xr-x root/root         0 2020-12-03 19:36 ./usr/share/doc/
+drwxr-xr-x root/root         0 2020-12-03 19:36 ./usr/share/doc/steam-runtime-tools-bin/
+-rw-r--r-- root/root     16992 2020-12-03 19:31 ./usr/share/doc/steam-runtime-tools-bin/changelog.amd64.gz
+-rw-r--r-- root/root      4890 2020-09-14 12:02 ./usr/share/doc/steam-runtime-tools-bin/copyright

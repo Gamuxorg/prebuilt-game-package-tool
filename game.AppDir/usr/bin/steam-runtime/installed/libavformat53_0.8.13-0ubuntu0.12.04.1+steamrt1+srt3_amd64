@@ -1,0 +1,17 @@
+drwxr-xr-x root/root         0 2019-04-03 17:13 ./
+drwxr-xr-x root/root         0 2019-04-03 17:12 ./usr/
+drwxr-xr-x root/root         0 2019-04-03 17:12 ./usr/lib/
+drwxr-xr-x root/root         0 2019-04-03 17:13 ./usr/lib/x86_64-linux-gnu/
+-rw-r--r-- root/root    125720 2019-04-03 17:13 ./usr/lib/x86_64-linux-gnu/libavformat.so.53.21.1
+drwxr-xr-x root/root         0 2019-04-03 17:13 ./usr/share/
+drwxr-xr-x root/root         0 2019-04-03 17:12 ./usr/share/doc/
+drwxr-xr-x root/root         0 2019-04-03 17:13 ./usr/share/doc/libavformat53/
+-rw-r--r-- root/root     18268 2014-06-27 01:39 ./usr/share/doc/libavformat53/changelog.gz
+-rw-r--r-- root/root        66 2019-04-03 17:12 ./usr/share/doc/libavformat53/formats.txt
+-rw-r--r-- root/root      3282 2014-07-16 12:51 ./usr/share/doc/libavformat53/copyright
+-rw-r--r-- root/root     26162 2019-04-03 17:10 ./usr/share/doc/libavformat53/changelog.Debian.amd64.gz
+-rw-r--r-- root/root      2225 2014-07-16 12:51 ./usr/share/doc/libavformat53/README.Debian.gz
+drwxr-xr-x root/root         0 2019-04-03 17:13 ./usr/share/lintian/
+drwxr-xr-x root/root         0 2019-04-03 17:13 ./usr/share/lintian/overrides/
+-rw-r--r-- root/root       103 2014-07-16 12:51 ./usr/share/lintian/overrides/libavformat53
+lrwxrwxrwx root/root         0 2019-04-03 17:13 ./usr/lib/x86_64-linux-gnu/libavformat.so.53 -> libavformat.so.53.21.1

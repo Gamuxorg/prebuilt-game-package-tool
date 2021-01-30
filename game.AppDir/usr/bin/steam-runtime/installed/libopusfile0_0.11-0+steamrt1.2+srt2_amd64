@@ -1,0 +1,13 @@
+drwxr-xr-x root/root         0 2019-04-03 16:39 ./
+drwxr-xr-x root/root         0 2019-04-03 16:39 ./usr/
+drwxr-xr-x root/root         0 2019-04-03 16:39 ./usr/lib/
+drwxr-xr-x root/root         0 2019-04-03 16:39 ./usr/lib/x86_64-linux-gnu/
+-rw-r--r-- root/root     46912 2019-04-03 16:39 ./usr/lib/x86_64-linux-gnu/libopusfile.so.0.4.4
+-rw-r--r-- root/root     38896 2019-04-03 16:39 ./usr/lib/x86_64-linux-gnu/libopusurl.so.0.4.4
+drwxr-xr-x root/root         0 2019-04-03 16:39 ./usr/share/
+drwxr-xr-x root/root         0 2019-04-03 16:39 ./usr/share/doc/
+drwxr-xr-x root/root         0 2019-04-03 16:39 ./usr/share/doc/libopusfile0/
+-rw-r--r-- root/root      1859 2019-04-03 16:38 ./usr/share/doc/libopusfile0/copyright
+-rw-r--r-- root/root      1528 2019-04-03 16:38 ./usr/share/doc/libopusfile0/changelog.Debian.amd64.gz
+lrwxrwxrwx root/root         0 2019-04-03 16:39 ./usr/lib/x86_64-linux-gnu/libopusurl.so.0 -> libopusurl.so.0.4.4
+lrwxrwxrwx root/root         0 2019-04-03 16:39 ./usr/lib/x86_64-linux-gnu/libopusfile.so.0 -> libopusfile.so.0.4.4

@@ -1,0 +1,18 @@
+drwxr-xr-x root/root         0 2019-04-03 14:12 ./
+drwxr-xr-x root/root         0 2019-04-03 14:12 ./usr/
+drwxr-xr-x root/root         0 2019-04-03 14:12 ./usr/lib/
+drwxr-xr-x root/root         0 2019-04-03 14:12 ./usr/lib/i386-linux-gnu/
+-rw-r--r-- root/root    632972 2019-04-03 14:12 ./usr/lib/i386-linux-gnu/libfreetype.so.6.8.0
+drwxr-xr-x root/root         0 2019-04-03 14:12 ./usr/share/
+drwxr-xr-x root/root         0 2019-04-03 14:12 ./usr/share/doc/
+drwxr-xr-x root/root         0 2019-04-03 14:12 ./usr/share/doc/libfreetype6/
+-rw-r--r-- root/root      1391 2009-03-14 13:45 ./usr/share/doc/libfreetype6/TODO
+-rw-r--r-- root/root     45586 2011-11-14 17:58 ./usr/share/doc/libfreetype6/CHANGES.gz
+-rw-r--r-- root/root     21846 2019-04-03 14:11 ./usr/share/doc/libfreetype6/changelog.Debian.i386.gz
+-rw-r--r-- root/root     30895 2011-11-14 19:22 ./usr/share/doc/libfreetype6/changelog.gz
+-rw-r--r-- root/root      2872 2009-03-14 13:45 ./usr/share/doc/libfreetype6/FTL.TXT.gz
+-rw-r--r-- root/root     14358 2019-04-03 14:11 ./usr/share/doc/libfreetype6/copyright
+drwxr-xr-x root/root         0 2019-04-03 14:12 ./usr/share/doc/libfreetype6/pcf/
+-rw-r--r-- root/root      3311 2010-12-31 16:42 ./usr/share/doc/libfreetype6/pcf/README
+-rw-r--r-- root/root     24697 2011-02-25 05:16 ./usr/share/doc/libfreetype6/ft2faq.html
+lrwxrwxrwx root/root         0 2019-04-03 14:12 ./usr/lib/i386-linux-gnu/libfreetype.so.6 -> libfreetype.so.6.8.0

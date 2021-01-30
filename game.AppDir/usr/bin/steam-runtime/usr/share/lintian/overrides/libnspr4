@@ -1,0 +1,4 @@
+# License says GPL 2 or subsequent, so pointing to the latest version is fine
+libnspr4: copyright-refers-to-versionless-license-file usr/share/common-licenses/GPL
+# ubuntu
+libnspr4: shlib-without-versioned-soname

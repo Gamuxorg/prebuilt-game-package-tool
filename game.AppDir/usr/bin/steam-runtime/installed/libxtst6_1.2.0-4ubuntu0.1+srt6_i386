@@ -1,0 +1,12 @@
+drwxr-xr-x root/root         0 2019-04-03 15:41 ./
+drwxr-xr-x root/root         0 2019-04-03 15:41 ./usr/
+drwxr-xr-x root/root         0 2019-04-03 15:41 ./usr/lib/
+drwxr-xr-x root/root         0 2019-04-03 15:41 ./usr/lib/i386-linux-gnu/
+-rw-r--r-- root/root     22096 2019-04-03 15:41 ./usr/lib/i386-linux-gnu/libXtst.so.6.1.0
+drwxr-xr-x root/root         0 2019-04-03 15:41 ./usr/share/
+drwxr-xr-x root/root         0 2019-04-03 15:41 ./usr/share/doc/
+drwxr-xr-x root/root         0 2019-04-03 15:41 ./usr/share/doc/libxtst6/
+-rw-r--r-- root/root      2654 2019-04-03 15:40 ./usr/share/doc/libxtst6/changelog.Debian.i386.gz
+-rw-r--r-- root/root      8615 2010-10-30 00:44 ./usr/share/doc/libxtst6/changelog.gz
+-rw-r--r-- root/root      3494 2019-04-03 15:40 ./usr/share/doc/libxtst6/copyright
+lrwxrwxrwx root/root         0 2019-04-03 15:41 ./usr/lib/i386-linux-gnu/libXtst.so.6 -> libXtst.so.6.1.0

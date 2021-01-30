@@ -1,0 +1,34 @@
+[Library libdrm_intel.so.1]
+CompareBy=name;symbols;
+PublicSymbols=!drm_mm*;drm_intel_*;!;*;
+[Library libdrm_nouveau.so.2]
+CompareBy=name;symbols;
+PublicSymbols=!abi16_*;!nouveau_debug;!nouveau_object_find;nouveau_*;!;*;
+[Library libdrm_radeon.so.1]
+CompareBy=name;symbols;
+PublicSymbols=!bof_*;radeon_*;!;*;
+[Library libedit.so.2]
+CompareBy=symbols;
+PublicSymbols=!__ct*;!c_*;!ce_*;!ch_*;!ct_*;!cv_*;!ed_*;!el_editmode;!el_match;!el_read*;!em_*;!fgetln;!func__get;!help__get;!hist_*;!keymacro_*;!libedit_*;!map_*;!nvis;!parse_*;!prompt_*;!re_*;!read_finish;!read_init;!read_prepare;!search_*;!sig_*;!snvis;!str*;!svis;!terminal_*;!tty_*;!unvis;!vi_*;!vis;!wcsdup;_el_fn_complete;_rl_*;add_history;append_history;clear_history;completion_matches;current_history;el_*;emacs_*;filename_completion_function;fn_*;get_history_event;history;history_*;max_input_history;next_history;previous_history;read_history;readline;readline_echoing_p;remove_history;replace_history_entry;rl_*;stifle_history;tilde_expand;tok_*;unstifle_history;username_completion_function;using_history;where_history;write_history;!;!*;
+[Library libgcc_s.so.1]
+CompareBy=versions;symbols;
+[Library libtinfo.so.5]
+CompareBy=versions;
+[Library libxcb-dri3.so.0]
+CompareBy=symbols;
+[Library libxcb-glx.so.0]
+CompareBy=symbols;
+[Library libxcb-present.so.0]
+CompareBy=symbols;
+[Library libxcb-randr.so.0]
+CompareBy=symbols;
+[Library libxcb-render.so.0]
+CompareBy=symbols;
+[Library libxcb-shape.so.0]
+CompareBy=symbols;
+[Library libxcb-sync.so.1]
+CompareBy=symbols;
+[Library libxcb-xfixes.so.0]
+CompareBy=symbols;
+[Library libxcb.so.1]
+CompareBy=symbols;

@@ -1,0 +1,14 @@
+drwxr-xr-x root/root         0 2019-04-03 13:46 ./
+drwxr-xr-x root/root         0 2019-04-03 13:46 ./usr/
+drwxr-xr-x root/root         0 2019-04-03 13:46 ./usr/lib/
+drwxr-xr-x root/root         0 2019-04-03 13:46 ./usr/lib/i386-linux-gnu/
+-rw-r--r-- root/root    670348 2019-04-03 13:46 ./usr/lib/i386-linux-gnu/libasn1.so.8.0.0
+drwxr-xr-x root/root         0 2019-04-03 13:46 ./usr/share/
+drwxr-xr-x root/root         0 2019-04-03 13:46 ./usr/share/doc/
+drwxr-xr-x root/root         0 2019-04-03 13:46 ./usr/share/doc/libasn1-8-heimdal/
+-rw-r--r-- root/root     16759 2019-04-03 13:40 ./usr/share/doc/libasn1-8-heimdal/changelog.Debian.i386.gz
+-rw-r--r-- root/root      8191 2012-03-28 23:51 ./usr/share/doc/libasn1-8-heimdal/copyright
+drwxr-xr-x root/root         0 2019-04-03 13:46 ./usr/share/lintian/
+drwxr-xr-x root/root         0 2019-04-03 13:46 ./usr/share/lintian/overrides/
+-rw-r--r-- root/root        34 2012-03-28 14:53 ./usr/share/lintian/overrides/libasn1-8-heimdal
+lrwxrwxrwx root/root         0 2019-04-03 13:46 ./usr/lib/i386-linux-gnu/libasn1.so.8 -> libasn1.so.8.0.0

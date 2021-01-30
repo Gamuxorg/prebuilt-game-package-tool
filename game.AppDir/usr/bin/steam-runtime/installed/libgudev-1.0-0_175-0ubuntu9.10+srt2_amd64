@@ -1,0 +1,12 @@
+drwxr-xr-x root/root         0 2019-04-03 14:27 ./
+drwxr-xr-x root/root         0 2019-04-03 14:27 ./usr/
+drwxr-xr-x root/root         0 2019-04-03 14:27 ./usr/lib/
+drwxr-xr-x root/root         0 2019-04-03 14:27 ./usr/lib/x86_64-linux-gnu/
+-rw-r--r-- root/root     38792 2019-04-03 14:27 ./usr/lib/x86_64-linux-gnu/libgudev-1.0.so.0.1.1
+drwxr-xr-x root/root         0 2019-04-03 14:27 ./usr/share/
+drwxr-xr-x root/root         0 2019-04-03 14:27 ./usr/share/doc/
+drwxr-xr-x root/root         0 2019-04-03 14:27 ./usr/share/doc/libgudev-1.0-0/
+-rw-r--r-- root/root     66601 2011-11-07 22:27 ./usr/share/doc/libgudev-1.0-0/changelog.gz
+-rw-r--r-- root/root       752 2014-03-12 19:00 ./usr/share/doc/libgudev-1.0-0/copyright
+-rw-r--r-- root/root     49936 2019-04-03 14:26 ./usr/share/doc/libgudev-1.0-0/changelog.Debian.amd64.gz
+lrwxrwxrwx root/root         0 2019-04-03 14:27 ./usr/lib/x86_64-linux-gnu/libgudev-1.0.so.0 -> libgudev-1.0.so.0.1.1

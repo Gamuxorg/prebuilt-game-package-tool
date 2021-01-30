@@ -1,0 +1,11 @@
+drwxr-xr-x root/root         0 2019-04-03 15:25 ./
+drwxr-xr-x root/root         0 2019-04-03 15:25 ./usr/
+drwxr-xr-x root/root         0 2019-04-03 15:25 ./usr/lib/
+drwxr-xr-x root/root         0 2019-04-03 15:25 ./usr/lib/x86_64-linux-gnu/
+-rw-r--r-- root/root     18640 2019-04-03 15:25 ./usr/lib/x86_64-linux-gnu/libXxf86vm.so.1.0.0
+drwxr-xr-x root/root         0 2019-04-03 15:25 ./usr/share/
+drwxr-xr-x root/root         0 2019-04-03 15:25 ./usr/share/doc/
+drwxr-xr-x root/root         0 2019-04-03 15:25 ./usr/share/doc/libxxf86vm1/
+-rw-r--r-- root/root      1370 2019-04-03 15:24 ./usr/share/doc/libxxf86vm1/copyright
+-rw-r--r-- root/root      2406 2019-04-03 15:24 ./usr/share/doc/libxxf86vm1/changelog.Debian.amd64.gz
+lrwxrwxrwx root/root         0 2019-04-03 15:25 ./usr/lib/x86_64-linux-gnu/libXxf86vm.so.1 -> libXxf86vm.so.1.0.0

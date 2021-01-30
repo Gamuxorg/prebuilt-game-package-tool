@@ -1,0 +1,14 @@
+drwxr-xr-x root/root         0 2019-04-03 15:41 ./
+drwxr-xr-x root/root         0 2019-04-03 15:40 ./selinux/
+drwxr-xr-x root/root         0 2019-04-03 15:41 ./usr/
+drwxr-xr-x root/root         0 2019-04-03 15:41 ./usr/share/
+drwxr-xr-x root/root         0 2019-04-03 15:41 ./usr/share/lintian/
+drwxr-xr-x root/root         0 2019-04-03 15:41 ./usr/share/lintian/overrides/
+-rw-r--r-- root/root       103 2011-10-28 06:44 ./usr/share/lintian/overrides/libselinux1
+drwxr-xr-x root/root         0 2019-04-03 15:41 ./usr/share/doc/
+drwxr-xr-x root/root         0 2019-04-03 15:41 ./usr/share/doc/libselinux1/
+-rw-r--r-- root/root      3131 2011-10-28 06:37 ./usr/share/doc/libselinux1/copyright
+-rw-r--r-- root/root     15580 2019-04-03 15:40 ./usr/share/doc/libselinux1/changelog.Debian.amd64.gz
+drwxr-xr-x root/root         0 2019-04-03 15:41 ./lib/
+drwxr-xr-x root/root         0 2019-04-03 15:41 ./lib/x86_64-linux-gnu/
+-rw-r--r-- root/root    122256 2019-04-03 15:41 ./lib/x86_64-linux-gnu/libselinux.so.1
