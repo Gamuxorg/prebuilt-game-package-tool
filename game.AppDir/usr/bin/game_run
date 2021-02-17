@@ -18,7 +18,9 @@ fi
 
 UNIONFS="unionfs_${PLATFORM}"
 
-"${HERE}"/${UNIONFS} -o big_writes,umask=0002,direct_io,auto_cache,sync_read,nonempty,uid=$(id -u),gid=$(id -g),cow "${GAMUX_GAME_DATA}"=RW:"${GAMUX_GAME_READONLY}"=RO ${GAMUX_GAME_DATA_TMP}
+#CS1.6需添加direct_io参数
+
+"${HERE}"/${UNIONFS} -o big_writes,umask=0002,auto_cache,sync_read,nonempty,uid=$(id -u),gid=$(id -g),cow "${GAMUX_GAME_DATA}"=RW:"${GAMUX_GAME_READONLY}"=RO ${GAMUX_GAME_DATA_TMP}
 
 #自定义代码
 gamux_function1
