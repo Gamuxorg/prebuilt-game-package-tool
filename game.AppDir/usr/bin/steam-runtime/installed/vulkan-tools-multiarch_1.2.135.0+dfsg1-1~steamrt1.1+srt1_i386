@@ -1,9 +1,0 @@
-drwxr-xr-x root/root         0 2020-04-09 17:23 ./
-drwxr-xr-x root/root         0 2020-04-09 17:23 ./usr/
-drwxr-xr-x root/root         0 2020-04-09 17:23 ./usr/bin/
--rwxr-xr-x root/root    501596 2020-04-09 17:23 ./usr/bin/i386-linux-gnu-vulkaninfo
-drwxr-xr-x root/root         0 2020-04-09 17:23 ./usr/share/
-drwxr-xr-x root/root         0 2020-04-09 17:23 ./usr/share/doc/
-drwxr-xr-x root/root         0 2020-04-09 17:23 ./usr/share/doc/vulkan-tools-multiarch/
--rw-r--r-- root/root      1015 2020-04-09 17:20 ./usr/share/doc/vulkan-tools-multiarch/changelog.Debian.i386.gz
--rw-r--r-- root/root      1775 2020-03-17 12:42 ./usr/share/doc/vulkan-tools-multiarch/copyright

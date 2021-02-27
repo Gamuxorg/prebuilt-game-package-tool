@@ -2,13 +2,13 @@
 
 ###设置，根据需要修改###
 #游戏名称,可以随意起，请务必使用英文，游戏名切勿包含空格及其他符号
-GAMUX_GAME_NAME="factorio"
+GAMUX_GAME_NAME="gta3"
 
 #游戏所在文件夹的名称，默认为game
 GAMUX_GAME_BIN_DIR="game"
 
 #game文件夹中游戏执行文件
-GAMUX_GAME_EXEC="factorio"
+GAMUX_GAME_EXEC="gta3"
 
 #是否启用steam-runtime，0为不启用，1为启用。若不启用，可以删除当前目录的steam-runtime节省游戏体积
 #非x86游戏不支持steam-runtime
@@ -16,7 +16,7 @@ GAMUX_STEAMRUNTIME=0
 
 #x86平台只支持在64位系统运行，不论游戏是32或64位
 #arm平台只支持在arm64系统运行，不论armel、armhf或arm64的游戏
-PLATFORM=amd64
+PLATFORM=arm64
 
 ###定义变量部分，无需修改###
 HERE=$(cd "$(dirname "$0")";pwd)
