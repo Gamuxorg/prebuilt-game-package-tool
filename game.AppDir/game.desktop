@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=异星工厂
-Exec=games
+Exec=run
 Icon=game
 Type=Application
 Categories=Game;

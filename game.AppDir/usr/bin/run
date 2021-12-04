@@ -2,7 +2,7 @@
 
 source "$(cd "$(dirname "$0")";pwd)/config"
 
-"${HERE}"/game_run
+"${HERE}"/function
 
 fusermount -u -z "${GAMUX_GAME_DATA_TMP}"
 rmdir "${GAMUX_GAME_DATA_TMP}"

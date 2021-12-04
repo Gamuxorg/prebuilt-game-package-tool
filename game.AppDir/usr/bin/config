@@ -16,7 +16,16 @@ GAMUX_STEAMRUNTIME=0
 
 #x86平台只支持在64位系统运行，不论游戏是32或64位
 #arm平台只支持在arm64系统运行，不论armel、armhf或arm64的游戏
-PLATFORM=arm64
+SYSARCH="$(uname -m)"
+echo "architecture of your Operating System is ${SYSARCH}"
+if [ "${SYSARCH}" == "x86" -o "${SYSARCH}" == "i386" -o "${SYSARCH}" == "i686" -o "${SYSARCH}" == "x86_64" ];then
+	PLATFORM=amd64
+elif [ "${SYSARCH}" == "aarch64" -o "${SYSARCH}" == "arm" -o "${SYSARCH}" == "arm64" -o "${SYSARCH}" == "armv8b" -o "${SYSARCH}" == "armv8l" -o "${SYSARCH}" == "armhf" -o "${SYSARCH}" == "armel" ];then
+	PLATFORM=arm64
+else
+	echo "your architecture ${SYSARCH} is not supported."
+	exit 10010
+fi
 
 ###定义变量部分，无需修改###
 HERE=$(cd "$(dirname "$0")";pwd)
