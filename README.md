@@ -18,10 +18,10 @@ linux中文游戏站准备的打包工具
 	
 	- GAMUX_STEAMRUNTIME,为0则表示不需要加载steam-runtime，为1表示加载。如果不需要加载，可以考虑删掉steam-runtime目录减少游戏体积
 	
-	- PLATFORM,多架构支持，暂未实现，可以忽略
-	
 	- gamux_function1(),如果默认的脚本不能满足打包需求，则进行额外添加，如添加更多环境变量等
-		
+
+- rename game.AppDir/AppRun-aarch64 or game.AppDir/AppRun-amd64 to AppRun based on your architecture		
+
 - 修改game.AppDir/game.desktop
 
 	- Name,游戏中文名
@@ -31,7 +31,11 @@ linux中文游戏站准备的打包工具
 ### 打包
 
 ```shell
-ARCH=x86_64 ./appimagetool-x86_64.AppImage ./game.AppDir 游戏英文名(全小写)_版本号(数字+点组合)_架构.appimage 
+#x86 or x86_64
+ARCH=x86_64 ./appimagetool-x86_64.AppImage ./game.AppDir name_version_arch.appimage 
+
+#armhf or aarch64
+ARCH=arm_aarch64 ./appimagetool-aarch64.AppImage ./game.AppDir name_version_arch.appimage
 ```
 
 架构列表：
@@ -40,9 +44,9 @@ ARCH=x86_64 ./appimagetool-x86_64.AppImage ./game.AppDir 游戏英文名(全小�
 
 - amd64，表示x86的64位游戏
 
-- armhf，表示arm的硬浮点32位游戏
+- arm，表示arm的硬浮点32位游戏(armhf)
 
-- arm64，表示arm的64位游戏
+- arm64，表示arm的64位游戏(aarch64)
 
 例如
 
